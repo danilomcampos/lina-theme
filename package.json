@@ -2,7 +2,7 @@
   "name": "lina-theme",
   "displayName": "Lina",
   "description": "Lina is a carefully crafted dark theme for VS Code.",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "publisher": "daniloc",
   "engines": {
     "vscode": "^1.96.2"
