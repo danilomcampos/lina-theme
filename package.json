@@ -1,12 +1,13 @@
 {
   "name": "lina-theme",
   "displayName": "Lina",
-  "description": "Lina dark theme for VS Code",
-  "version": "1.0.1",
+  "description": "Lina is a carefully crafted dark theme for VS Code.",
+  "version": "1.0.2",
   "publisher": "daniloc",
   "engines": {
     "vscode": "^1.96.2"
   },
+  "icon": "icon.png",
   "keywords": [
     "theme",
     "dark theme",
@@ -16,6 +17,11 @@
     "danilo campos",
     "daniloc"
   ],
+  "author": {
+    "name": "Danilo Campos",
+    "email": "hello@danilocampos.cc",
+    "url": "https://danilocampos.cc"
+  },
   "categories": [
     "Themes"
   ],

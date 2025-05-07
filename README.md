@@ -1,5 +1,5 @@
-# lina-theme README
+# Lina theme for VS Code
 
-## Lina theme for VS Code
+Lina is a carefully crafted dark theme for VS Code, Cursor and Windsurf.
 
-**Enjoy!**
+[Get it from the VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=daniloc.lina-theme)
