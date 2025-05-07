@@ -1,0 +1,31 @@
+{
+  "name": "lina-theme",
+  "displayName": "Lina",
+  "description": "Lina dark theme for VS Code",
+  "version": "1.0.0",
+  "publisher": "daniloc",
+  "engines": {
+    "vscode": "^1.99.0"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "minimal",
+    "lina",
+    "lina theme",
+    "danilo campos",
+    "daniloc"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Lina",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Lina-color-theme.json"
+      }
+    ]
+  }
+}
