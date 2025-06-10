@@ -1842,6 +1842,13 @@
 		"settings": {
 		  "fontStyle": "italic"
 		}
+	  },
+	  {
+		"name": "Toggle button On",
+		"scope": "solid-switch-toggle.on",
+		"settings": {
+		  "foreground": "#74e26c"
+		}
 	  }
 	],
 	"colors": {
@@ -1903,7 +1910,7 @@
 	  "menu.selectionBorder": "#00000000",
 	  "menu.separatorBackground": "#1d1d1d",
 	  "menu.border": "#171717",
-	  "button.background": "#ffffff",
+	  "button.background": "#ffffff99",
 	  "button.foreground": "#000000",
 	  "button.hoverBackground": "#929292",
 	  "button.secondaryForeground": "#ffffff",
@@ -2099,6 +2106,6 @@
 	  "breadcrumb.activeSelectionForeground": "#ffffff",
 	  "editorGutter.commentRangeForeground": "#ffffff",
 	  "debugExceptionWidget.background": "#171717",
-	  "debugExceptionWidget.border": "#474747"
+	  "debugExceptionWidget.border": "#474747",
 	}
   }
